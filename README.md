@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Mayank
 
-<!--
-**mayank4/mayank4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst based in Ontario, Canada. 6+ years across federal compliance
+analytics, financial QA, and backend software development. Canadian citizen,
+TN visa eligible, targeting US-based data and analytics roles.
 
-Here are some ideas to get you started:
+**Currently building:**
+- Compliance KPI Dashboard (Python + SQL + Power BI)
+- Market Risk Data Validator (Python + SQL)
+- Monte Carlo VaR Simulator (Python + Streamlit)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Core stack:** SQL, Python (pandas, NumPy), Power BI, Java, COBOL (legacy)
+
+**Currently learning:** dbt, Apache Airflow, Snowflake, AWS
+
+**Reach me:** linkedin.com/in/patel-mayank0
